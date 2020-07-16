@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.con-bottom{
+    margin-bottom: 90px;
+}
+.nav-item a{
+    margin-left: 25px;
+    font-weight: 600;
+}
+nav{
+    background-color: #b0f7d7;
+}
+.bg-col{
+    background-color: #b0f7d7;
+}
+.btn-col{
+    margin-top: -8px;
+	background: #21B573;
+    border: none;
+    color: white;
+	padding: 8px 30px;
+	border-radius: 25px;
+}
+.btn-col-1{
+	background: #21B573;
+    border: none;
+    color: white;
+	padding: 4px 28px 4px 28px;
+	border-radius: 25px;
+}
+.text{
+    margin-bottom: 90px;
+}
+.text .p-text-col{
+    color: #eb1f1f;
+}
+.text p{
+    line-height: 30px;
+}
+.text h2{
+    margin-bottom: 20px;
+    font-weight: 700;
+	font-size: 50px;
+	color: #000;
+}
+.text span{
+    color:#21b573;
+}
+.text button{
+    margin-top: 30px;
+}
+.text-center{
+    margin: 0 auto;
+    padding: 20px;
+    width: 270px;
+	height: 270px;
+    background: #c6ffdf52;
+    display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border-radius: 10px;
+}
+.text-center img{
+    width: 70px;
+}
+.text-center h3{
+    font-size: 25px;
+	margin: 20px 0px 10px 0px;
+}
+.text-center:hover{
+    background-color: white;
+    box-shadow: 0 15px 40px rgba(145, 185, 154, 0.363);
+}
+.text-courses h2{
+    margin-bottom: 90px;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+.card{
+    background: #ffffff;
+	box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+	border-radius: 18px;
+	border: none;
+	padding: 24px 20px;
+}
+.card .wid-height{
+    max-width: 310px;
+    max-height: 230px;
+}
+.card-title{
+    font-size: 22px;
+    font-weight: 600;
+    margin-left: -15px;
+}
+.card-body p{
+    margin: 0px 0px 25px -15px;
+}
+.card-body button{
+    margin: 0px 0px 25px -15px;
+}
+.card-footer{
+    border: none;
+    padding: 0px;
+    background-color: white;
+}
+.card-footer span{
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+}
+footer{
+    background: #150b2ce5;
+    height: 50vh auto;
+}
+.footer-content{
+    margin-top: 40px;
+    color: white;
+}
+.list h3{
+    font-size: 17px;
+    font-weight: 700;
+}
+.list ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    line-height: 28px;
+}
+.list ul li{
+    list-style: none;
+}
+.copyright{
+    line-height: 20vh;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
